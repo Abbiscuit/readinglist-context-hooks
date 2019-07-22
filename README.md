@@ -1,7 +1,7 @@
 
 ## Readinglist built with context and hooks
 
-### `npm start`
+### features
 
 Booklist is saved in localStorage
 
